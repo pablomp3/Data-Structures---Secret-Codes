@@ -1,7 +1,8 @@
 # Data-Structures---Secret-Codes
 
-**secret codes:** https://acm.cs.nthu.edu.tw/problem/12274/
-**secret codes quiz:** https://acm.cs.nthu.edu.tw/problem/12313/
+* Content:
+  * **secret codes:** https://acm.cs.nthu.edu.tw/problem/12274/
+  * **secret codes quiz:** https://acm.cs.nthu.edu.tw/problem/12313/
 
 # Secret Codes
 
@@ -31,9 +32,7 @@ In order to build a Huffman Tree:
 
 1. Repeat until you only have 1 node in the  character distribution (the root).
 
-![]()
-
- 
+![](https://github.com/pablomp3/Data-Structures---Secret-Codes/blob/master/secret_codes_1.png)
 
 ### Input
 
@@ -56,6 +55,8 @@ A line of integer, without space.
     011111101011010111100
     
 ###-------------------------------------------------------------------------------------------------------------
+###-------------------------------------------------------------------------------------------------------------
+###-------------------------------------------------------------------------------------------------------------
 
 # Secret Codes Quiz
 
@@ -65,7 +66,9 @@ You will be given a **tex**t and a **word**. You should:
 1. Calculate the **character distribution in the text** and sort it using **stable ascending sort** (from low to high).
 1. **Reorder the word** using the character distribution order.
 
-![]()
+![](https://github.com/pablomp3/Data-Structures---Secret-Codes/blob/master/secret_codes_quiz_1.png)
+
+![](https://github.com/pablomp3/Data-Structures---Secret-Codes/blob/master/secret_codes_quiz_2.png)
 
 ### Input
 
